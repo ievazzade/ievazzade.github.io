@@ -12,6 +12,6 @@ In the present molecular-dynamics study, external ac driving is used at frequenc
 
 [Download paper here](http://ievazzade.github.io/files/PhysRevB.95.035423.pdf)
 
-Recommended citation: I. Evazzade, I. P. Lobzenko, E. A. Korznikova, I. A. Ovid’ko, M. R. Roknabadi, and S. V. Dmitriev,
+Recommended citation: <b>I. Evazzade</b>, I. P. Lobzenko, E. A. Korznikova, I. A. Ovid’ko, M. R. Roknabadi, and S. V. Dmitriev,
 “Energy transfer in strained graphene assisted by discrete breathers excited by external ac driving”,
 PHYSICAL REVIEW B 95, 035423 (2017).

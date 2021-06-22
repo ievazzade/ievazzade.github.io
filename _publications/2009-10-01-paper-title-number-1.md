@@ -10,7 +10,7 @@ citation: 'I. Evazzade, I. P. Lobzenko, E. A. Korznikova, I. A. Ovid’ko, M. R.
 “Energy transfer in strained graphene assisted by discrete breathers excited by external ac driving”,
 PHYSICAL REVIEW B 95, 035423 (2017)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the number 1. The number 2 is left for future work.d
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
